@@ -1,0 +1,12 @@
+title: anagha
+description: computer science phd student @ uchicago
+theme: minima
+url: "https://anaghatiwari.github.io"
+
+# Social links
+github_username: anaghatiwari
+linkedin_username: anagha-tiwari1
+email: anaghatiwari@uchicago.edu
+
+# Build settings
+markdown: kramdown
