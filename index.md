@@ -25,7 +25,6 @@ i'm a researcher working at the intersection of machine learning, statistics, an
        style="border-radius: 15%; object-fit: cover;">
 </div>
 
-\\
 
 ---
 
