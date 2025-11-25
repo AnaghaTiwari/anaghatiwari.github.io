@@ -10,9 +10,7 @@ title: Home
 
 # nice to meet you! 👋
 
-i'm a 1st year phd student in cs at the university of chicago working at the  
-[noise lab](https://noise-lab.net) under  
-[dr. nick feamster](https://people.cs.uchicago.edu/~feamster/).
+i'm a 1st year phd student in cs at the university of chicago working at the [noise lab](https://noise-lab.net) under [dr. nick feamster](https://people.cs.uchicago.edu/~feamster/).
 
 i'm a researcher working at the intersection of machine learning, statistics, and financial networks. specifically, i'm focused on the development of neuro-symbolic AI methodologies to integrate logical reasoning with statistical and computational models to improve causal inference and representation. i aim to apply these techniques to study tail risk events and sector-specific, complex dynamics within financial markets.
 
