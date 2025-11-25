@@ -4,8 +4,9 @@ title: Home
 ---
 
 <p align="center">
-  <img src="/assets/images/cover pic.JPG" alt="Anagha Tiwari" width="200" style="border-radius: 50%;">
+  <img src="/assets/images/cover pic.JPG" alt="Anagha Tiwari" width="150" style="border-radius: 15px;">
 </p>
+
 
 # nice to meet you! 👋
 
