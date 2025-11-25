@@ -3,18 +3,26 @@ layout: default
 title: Home
 ---
 
+<!-- INTRO SECTION WITH IMAGE ON THE SIDE -->
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 25px;">
+
+  <div style="flex: 1;">
+
 # nice to meet you! 👋
 
-<div style="display: flex; align-items: flex-start; gap: 2em;">
-  <div style="flex: 1;">
-    <p>i'm a 1st year phd student in cs at the university of chicago working at the <a href="https://noise-lab.net">noise lab</a> under <a href="https://people.cs.uchicago.edu/~feamster/">dr. nick feamster</a></p>
-    
-    <p>i'm a researcher working at the intersection of machine learning, statistics, and financial networks. specifically, i'm focused on the development of neuro-symbolic AI methodologies to integrate logical reasoning with statistical and computational models to improve causal inference and representation. i aim to apply these techniques to study tail risk events and sector-specific, complex dynamics within financial markets.</p>
+i'm a 1st year phd student in cs at the university of chicago working at the  
+[noise lab](https://noise-lab.net) under  
+[dr. nick feamster](https://people.cs.uchicago.edu/~feamster/).
+
+i'm a researcher working at the intersection of machine learning, statistics, and financial networks. specifically, i'm focused on the development of neuro-symbolic AI methodologies to integrate logical reasoning with statistical and computational models to improve causal inference and representation. i aim to apply these techniques to study tail risk events and sector-specific, complex dynamics within financial markets.
+
   </div>
-  
-  <div style="flex-shrink: 0;">
-    <img src="/assets/images/cover pic.JPG" alt="Anagha Tiwari" width="200" style="border-radius: 15px;">
-  </div>
+
+  <!-- PROFILE PIC -->
+  <img src="/assets/images/cover pic.JPG"
+       alt="Anagha Tiwari"
+       width="150"
+       style="border-radius: 15%; object-fit: cover;">
 </div>
 
 ---
@@ -22,17 +30,35 @@ title: Home
 ## about me
 
 domain areas:
-- **ml / ai applications** - neuro-symbolic ai techniques that combine logic, probability, and neural networks to model and analyze financial data
-- **networks** - exploring how markets can be modeled via multi-dimensional, multi-spatial, temporal networks
-- **financial markets \& uncertainty** - how can we study the spillover effects within financial markets that stem from uncertainty and tail risk events?
+
+- **ml / ai applications** – neuro-symbolic ai techniques that combine logic, probability, and neural networks to model and analyze financial data  
+- **networks** – exploring how markets can be modeled via multi-dimensional, multi-spatial, temporal networks  
+- **financial markets & uncertainty** – studying spillover effects in markets driven by uncertainty and tail risk  
 
 ### previous experiences
-* risk \& quant analyst @ **blackrock** (feb - sept 2025)
-* global banking \& markets intern @ **bank of america** (summer 2024)
-* researcher @ **house & senate AI caucus NAIRR pilot hill demo** (may 2024)
-* visiting student \& intern @ **argonne national laboratory** (summer 2023 - may 2024)
-* b.s. in computer science \& statistics @ **uiuc** (aug 2022 - dec 2024)
+
+* risk & quant analyst @ **blackrock** (feb–sept 2025)  
+* global banking & markets intern @ **bank of america** (summer 2024)  
+* researcher @ **house & senate AI caucus NAIRR pilot** (may 2024)  
+* visiting student & intern @ **argonne national laboratory** (summer 2023–may 2024)  
+* b.s. in computer science & statistics @ **uiuc** (aug 2022–dec 2024)
 
 ---
+
+<!-- AESTHETIC HEADER-LIKE LINK BAR -->
+<div style="margin-top: 15px;">
+  <span style="padding:6px 12px; border:1px solid #ccc; border-radius:20px; margin-right:8px;">
+    <a href="/cv.pdf">CV</a>
+  </span>
+  <span style="padding:6px 12px; border:1px solid #ccc; border-radius:20px; margin-right:8px;">
+    <a href="https://linkedin.com/in/anagha-tiwari1">LinkedIn</a>
+  </span>
+  <span style="padding:6px 12px; border:1px solid #ccc; border-radius:20px; margin-right:8px;">
+    <a href="mailto:anaghatiwari@uchicago.edu">Email</a>
+  </span>
+  <span style="padding:6px 12px; border:1px solid #ccc; border-radius:20px; margin-right:8px;">
+    <a href="https://github.com/anaghatiwari">GitHub</a>
+  </span>
+</div>
 
 <small>© 2025 Anagha Tiwari. Built with GitHub Pages.</small>
