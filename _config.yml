@@ -1,7 +1,7 @@
 title: anagha tiwari
 description: computer science phd student @ uchicago
 url: "https://anaghatiwari.github.io"
-theme: minima
+# theme: minima
 plugins:
 - jekyll-remote-theme
 
