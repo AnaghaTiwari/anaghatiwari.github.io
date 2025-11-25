@@ -1,7 +1,7 @@
 title: anagha tiwari
 description: computer science phd student @ uchicago
 url: "https://anaghatiwari.github.io"
-remote_theme: pages-themes/minimal@v0.2.0
+theme: minima
 plugins:
 - jekyll-remote-theme
 
@@ -9,6 +9,9 @@ plugins:
 github_username: anaghatiwari
 linkedin_username: anagha-tiwari1
 email: anaghatiwari@uchicago.edu
+
+# Navigation links (these will show in sidebar)
+show_downloads: false
 
 # Build settings
 markdown: kramdown
