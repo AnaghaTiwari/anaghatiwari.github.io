@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div style="text-align: center; margin-bottom: 2em;">
-  <img src="assets/images/cover pic.JPG" alt="Anagha Tiwari" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; margin-bottom: 1em;">
+  <img src="assets/images/cover pic.JPG" alt="Anagha Tiwari" style="border-radius: 50%;object-fit: cover; margin-bottom: 1em;">
 </div>
 
 # nice to meet you! 👋
