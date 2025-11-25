@@ -1,11 +1,11 @@
 ---
-layout: home
+layout: default
 title: Home
 ---
 
-<div style="text-align: center; margin-bottom: 2em;">
-  <img src="assets/images/cover pic.JPG" alt="Anagha Tiwari" style="border-radius: 50%;object-fit: cover; margin-bottom: 1em;">
-</div>
+<p align="center">
+  <img src="/assets/images/cover pic.JPG" alt="Anagha Tiwari" width="200" style="border-radius: 50%;">
+</p>
 
 # nice to meet you! 👋
 
@@ -31,4 +31,6 @@ domain areas:
 
 ---
 
-<small>© 2025 Anagha Tiwari.</small>
+**Links:** [CV](/cv.pdf) | [LinkedIn](https://linkedin.com/in/anagha-tiwari1) | [Email](mailto:anaghatiwari@uchicago.edu) | [GitHub](https://github.com/anaghatiwari)
+
+<small>© 2025 Anagha Tiwari. Built with GitHub Pages.</small>
