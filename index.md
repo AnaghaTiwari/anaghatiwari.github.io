@@ -3,16 +3,19 @@ layout: default
 title: Home
 ---
 
-<p align="center">
-  <img src="/assets/images/cover pic.JPG" alt="Anagha Tiwari" width="150" style="border-radius: 15%;">
-</p>
-
-
 # nice to meet you! 👋
 
-i'm a 1st year phd student in cs at the university of chicago working at the [noise lab](https://noise-lab.net) under [dr. nick feamster](https://people.cs.uchicago.edu/~feamster/)
-
-i'm a researcher working at the intersection of machine learning, statistics, and financial networks. specifically, i'm focused on the development of neuro-symbolic AI methodologies to integrate logical reasoning with statistical and computational models to improve causal inference and representation. i aim to apply these techniques to study tail risk events and sector-specific, complex dynamics within financial markets.
+<div style="display: flex; align-items: flex-start; gap: 2em;">
+  <div style="flex: 1;">
+    <p>i'm a 1st year phd student in cs at the university of chicago working at the <a href="https://noise-lab.net">noise lab</a> under <a href="https://people.cs.uchicago.edu/~feamster/">dr. nick feamster</a></p>
+    
+    <p>i'm a researcher working at the intersection of machine learning, statistics, and financial networks. specifically, i'm focused on the development of neuro-symbolic AI methodologies to integrate logical reasoning with statistical and computational models to improve causal inference and representation. i aim to apply these techniques to study tail risk events and sector-specific, complex dynamics within financial markets.</p>
+  </div>
+  
+  <div style="flex-shrink: 0;">
+    <img src="/assets/images/cover pic.JPG" alt="Anagha Tiwari" width="200" style="border-radius: 15px;">
+  </div>
+</div>
 
 ---
 
@@ -24,14 +27,12 @@ domain areas:
 - **financial markets \& uncertainty** - how can we study the spillover effects within financial markets that stem from uncertainty and tail risk events?
 
 ### previous experiences
-* risk & quant analyst @ **blackrock** (feb - sept 2025)
-* global banking & markets intern @ **bank of america** (summer 2024)
+* risk \& quant analyst @ **blackrock** (feb - sept 2025)
+* global banking \& markets intern @ **bank of america** (summer 2024)
 * researcher @ **house & senate AI caucus NAIRR pilot hill demo** (may 2024)
-* visiting student & intern @ **argonne national laboratory** (summer 2023 - may 2024)
-* b.s. in computer science & statistics @ **uiuc** (aug 2022 - dec 2024)
+* visiting student \& intern @ **argonne national laboratory** (summer 2023 - may 2024)
+* b.s. in computer science \& statistics @ **uiuc** (aug 2022 - dec 2024)
 
 ---
-
-**Links:** [CV](/cv.pdf) | [LinkedIn](https://linkedin.com/in/anagha-tiwari1) | [Email](mailto:anaghatiwari@uchicago.edu) | [GitHub](https://github.com/anaghatiwari)
 
 <small>© 2025 Anagha Tiwari. Built with GitHub Pages.</small>
