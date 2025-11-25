@@ -6,7 +6,7 @@ title: Home
 <!-- INTRO SECTION WITH IMAGE ON THE SIDE -->
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 25px;">
 
-  <div style="flex: 1;">
+  <div style="flex: 1;" markdown="1">
 
 # nice to meet you! 👋
 
@@ -21,12 +21,12 @@ i'm a researcher working at the intersection of machine learning, statistics, an
   <!-- PROFILE PIC -->
   <img src="/assets/images/cover pic.JPG"
        alt="Anagha Tiwari"
-       width="150"
+       width="260"
        style="border-radius: 15%; object-fit: cover;">
 </div>
 
 
----
+
 
 ## about me
 
