@@ -4,7 +4,7 @@ title: Home
 ---
 
 <p align="center">
-  <img src="/assets/images/cover pic.JPG" alt="Anagha Tiwari" width="150" style="border-radius: 15px;">
+  <img src="/assets/images/cover pic.JPG" alt="Anagha Tiwari" width="150" style="border-radius: 15%;">
 </p>
 
 
@@ -24,11 +24,11 @@ domain areas:
 - **financial markets \& uncertainty** - how can we study the spillover effects within financial markets that stem from uncertainty and tail risk events?
 
 ### previous experiences
-* risk \& quant analyst @ **blackrock** (feb - sept 2025)
-* global banking \& markets intern @ **bank of america** (summer 2024)
+* risk & quant analyst @ **blackrock** (feb - sept 2025)
+* global banking & markets intern @ **bank of america** (summer 2024)
 * researcher @ **house & senate AI caucus NAIRR pilot hill demo** (may 2024)
-* visiting student \& intern @ **argonne national laboratory** (summer 2023 - may 2024)
-* b.s. in computer science \& statistics @ **uiuc** (aug 2022 - dec 2024)
+* visiting student & intern @ **argonne national laboratory** (summer 2023 - may 2024)
+* b.s. in computer science & statistics @ **uiuc** (aug 2022 - dec 2024)
 
 ---
 
