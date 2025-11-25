@@ -25,6 +25,8 @@ i'm a researcher working at the intersection of machine learning, statistics, an
        style="border-radius: 15%; object-fit: cover;">
 </div>
 
+\\
+
 ---
 
 ## about me
@@ -45,20 +47,5 @@ domain areas:
 
 ---
 
-<!-- AESTHETIC HEADER-LIKE LINK BAR -->
-<div style="margin-top: 15px;">
-  <span style="padding:6px 12px; border:1px solid #ccc; border-radius:20px; margin-right:8px;">
-    <a href="/cv.pdf">CV</a>
-  </span>
-  <span style="padding:6px 12px; border:1px solid #ccc; border-radius:20px; margin-right:8px;">
-    <a href="https://linkedin.com/in/anagha-tiwari1">LinkedIn</a>
-  </span>
-  <span style="padding:6px 12px; border:1px solid #ccc; border-radius:20px; margin-right:8px;">
-    <a href="mailto:anaghatiwari@uchicago.edu">Email</a>
-  </span>
-  <span style="padding:6px 12px; border:1px solid #ccc; border-radius:20px; margin-right:8px;">
-    <a href="https://github.com/anaghatiwari">GitHub</a>
-  </span>
-</div>
 
 <small>© 2025 Anagha Tiwari. Built with GitHub Pages.</small>
