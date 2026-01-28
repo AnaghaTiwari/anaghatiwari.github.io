@@ -8,7 +8,7 @@ title: Home
 
   <div style="flex: 1;" markdown="1">
 
-# nice to meet you! 👋
+# anagha tiwari
 
 i'm a 1st year phd student in cs at the university of chicago working at the [noise lab](https://noise-lab.net) under [dr. nick feamster](https://people.cs.uchicago.edu/~feamster/).
 
